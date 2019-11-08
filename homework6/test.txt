@@ -1,0 +1,26 @@
+CANDIDATES
+
+Name		Spiderman
+Number of Votes	0
+
+Name		Ironman
+Number of Votes	0
+
+Name		Green Hulk
+Number of Votes	0
+
+Name		Captain America
+Number of Votes	0
+
+Name		Batman
+Number of Votes	0
+
+Name		Robin
+Number of Votes	0
+
+
+WINNER
+
+Name		NO NAME YET
+Number of Votes	0
+
